@@ -1,0 +1,16 @@
+body {
+    background-color: lavenderblush;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+  h1 {
+    background-color: aquamarine;
+    border: black;
+    text-decoration: solid;
+    text-shadow: aliceblue;
+    font-size: 55px;
+  }
